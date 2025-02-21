@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 <!--
-**aruabdrali/aruabdrali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Образование:**  
+- 🎓 Выпускница Евразийского Национального университета  
+- 💻 Специализация: Криптология
 
-Here are some ideas to get you started:
+💡 **Обо мне:**  
+- 🏡 Купила свою первую квартиру в 22 года без помощи родителей  
+- ✈️ Участвовала в программе обмена и работала в США  
+- 🔐 Интересуюсь инвестициями, личными финансами и кибербезопасностью  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+📫 **Как со мной связаться:**  
+- Email: abdraliaru2oo2@mail.ru
+- LinkedIn: www.linkedin.com/in/aru-abdrali-672298352
 -->
